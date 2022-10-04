@@ -1,0 +1,48 @@
+body{
+    background-image: linear-gradient(to top left, orange, lightgreen, aqua );
+}
+
+h3{
+    width: 900px;
+}
+
+p{
+    color: orangered;
+    font-style: oblique;
+}
+
+b{
+    color: blue;
+    font-weight: bold;
+    height: 300px;
+}
+
+label{
+    color:blueviolet;
+    font-size: 20px;
+}
+
+#Capture{
+    width: 200;
+    border: 20px;
+    border-top-color: #0aa314;
+    border-bottom-color:  #31ca61;
+    border-left-color:  #1db63a;
+    border-right-color:  #53eca5;
+    border-width: 10px;
+    border-style:ridge;
+    border-radius: 30px;
+}
+
+#Identify{
+    width: 200;
+    border-radius: 30px;
+    border: 20px;
+    border-top-color: blue;
+    border-left-color: rgb(2, 2, 191);
+    border-bottom-color:  rgb(1, 1, 123);
+    border-right-color:  rgb(0, 0, 67);
+    border-width: 10px;
+    border-style:ridge;
+    
+}
